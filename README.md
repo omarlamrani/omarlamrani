@@ -3,7 +3,7 @@
 <!--
 **omarlamrani/omarlamrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" width=120 px alt="Unicorn" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" />
+<img align="right" width=180 px alt="Unicorn" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/GFtsjaDVJnoNa/giphy.gif" width="30px">&nbsp;***About me***
 
