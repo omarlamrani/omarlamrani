@@ -51,16 +51,6 @@ __Check out some of my recent GitHub repository!__
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarlamrani&layout=compact)
 
-<h2>&#127911 My current listen!</h2>
-
-<div>
-<p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marmar231001&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="Now Listenting to" />
-  </p>
-  
-  
-</div>
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/omarlamrani">omarlamrani</a>
