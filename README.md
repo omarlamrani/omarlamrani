@@ -43,7 +43,7 @@ __Check out some of my recent GitHub repository!__
         <a href="https://github.com/omarlamrani/text_editor_cpp">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarlamrani&repo=text_editor_cpp" alt="GitHub Stats" />
     </a>
-
+ 
   </p>
   
   
