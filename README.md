@@ -28,6 +28,7 @@ I am a fresh graduate from the MSc. Computer Science at the University of Warwic
 
 __Check out some of my recent GitHub repository!__ 
 
+<!--
 <div>
   <p>
     <a href="https://github.com/omarlamrani/diffusion_3d_voxel_models">
@@ -48,7 +49,7 @@ __Check out some of my recent GitHub repository!__
   
   
 </div>
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarlamrani&layout=compact)
 
 
