@@ -21,7 +21,8 @@ I am a fresh graduate from the MSc. Computer Science at the University of Warwic
   - Cloud Services (AWS cert. {ML + Data})
 
 - 🧗Outside tech, I quite an avid manga and philosophy reader, I'm quite the football addict and can never say no to a five-a-side. I also enjoy climbing whenever I have the time
-- 📫 Reach out to me at: <a href="lamraniomarcs@gmail.com">lamraniomarcs@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/omar--lamrani/" target="blank"><img align="center"
+
+- 📫 Reach out to me at <a href="lamraniomarcs@gmail.com">lamraniomarcs@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/omar--lamrani/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
 
