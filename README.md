@@ -16,7 +16,7 @@ I am a fresh graduate from the MSc. Computer Science at the University of Warwic
 - 💻I’m constantly working on both Windows and **Linux**; having studied distributed computing and security on Linux. I'm quite knowledgeable in the Linux OS structure (including **kernel**).
 
 - 🌱 I’m currently learning:
-  - Docker
+  - Docker/Kubernetes
   - Dart (Flutter)
   - Cloud Services (AWS cert. {ML + Data})
 
