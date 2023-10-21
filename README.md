@@ -11,7 +11,7 @@ I am a fresh graduate from the MSc. Computer Science at the University of Warwic
 
 * 📊 I'm passionate about state-of-the-art **data science** algorithms and **deep machine learning** models.
 
-* 💾 I've also worked on team student **software** projects (**engineering** & **design**) using Python and Java.
+* 💾 I've also worked on **software** projects (**engineering** & **design**) using Python, Java and NodeJS.
 
 - 💻I’m constantly working on both Windows and **Linux**; having studied distributed computing and security on Linux. I'm quite knowledgeable in the Linux OS structure (including **kernel**).
 
