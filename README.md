@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/GFtsjaDVJnoNa/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a fresh graduate from the MSc. Computer Science at the University of Warwick. I mainly code in Python, C/C++, and SQL. I love to learn new languages/frameworks to build creative and pioneering projects. 
+I am a fresh graduate from the MSc. Computer Science at the University of Warwick. I mainly code in Python, C, Node/React.js and SQL. I love to learn new languages/frameworks to build creative and pioneering projects. 
 
 * 📊 I'm passionate about state-of-the-art **data science** algorithms and **deep machine learning** models.
 
